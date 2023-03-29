@@ -1,3 +1,16 @@
+# Keil
+/MDK-ARM/Mechanical_Arm_Contorl
+/MDK-ARM/DebugConfig
+MDK-ARM/JLinkLog.txt
+RM_Frame_C.uvguix.*
+
+# CLion
+/cmake-build*
+/.idea
+
+# Others
+*.crf
+
 # Prerequisites
 *.d
 
